@@ -10,7 +10,6 @@ The data set belongs to a leading online E-Commerce company. An online retail (E
 - Imported the dataset.
 - Performed EDA(Exploratory Data Analysis)
 - Trained and Tested the dataset with 3 Algorithms(Decision Tree, Random Forest and XG Boost)
-- XG Boost beat Decision Tree and Random Forest with its high accuracy.
 
 ## project
 https://github.com/Poojitha2509/Customer-Churn-Prediction-Analysis/blob/main/PoojithaProject%20(1).ipynb
